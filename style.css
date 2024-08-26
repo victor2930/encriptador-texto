@@ -275,6 +275,7 @@ body{
     .txtTexto {
         font-size: 20px;
         line-height: 30px;
+        width: 50%;
     }
 
     .info-1 {
